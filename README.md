@@ -73,7 +73,7 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ## Contact
 
-Ali Abdo - [@yourtwitter](https://twitter.com/yourtwitter) - aliabdo12121@outlook.sa
+Ali Abdo - aliabdo12121@outlook.sa
 
 Project Link: [https://github.com/Aliabdo6/url-shortener](https://github.com/Aliabdo6/url-shortener)
 
